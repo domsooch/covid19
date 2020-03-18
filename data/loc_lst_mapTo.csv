@@ -1,0 +1,463 @@
+,Country/Region,Province/State,MapTo
+0, Azerbaijan,,Azerbaijan
+1,Afghanistan,,Afghanistan
+2,Albania,,Albania
+3,Algeria,,Algeria
+4,Andorra,,Andorra
+5,Antigua and Barbuda,,Antigua and Barbuda
+6,Argentina,,Argentina
+7,Armenia,,Armenia
+8,Aruba,,Aruba
+9,Australia,Australian Capital Territory,Australia
+10,Australia,From Diamond Princess,Australia
+11,Australia,New South Wales,Australia
+12,Australia,Northern Territory,Australia
+13,Australia,Queensland,Australia
+14,Australia,South Australia,Australia
+15,Australia,Tasmania,Australia
+16,Australia,Victoria,Australia
+17,Australia,Western Australia,Australia
+18,Australia,,Australia
+19,Austria,None,Austria
+20,Austria,,Austria
+21,Azerbaijan,,Azerbaijan
+22,Bahrain,,Bahrain
+23,Bangladesh,,Bangladesh
+24,Belarus,,Belarus
+25,Belgium,,Belgium
+26,Bhutan,,Bhutan
+27,Bolivia,,Bolivia
+28,Bosnia and Herzegovina,,Bosnia and Herzegovina
+29,Brazil,,Brazil
+30,Brunei,,Brunei
+31,Bulgaria,,Bulgaria
+32,Burkina Faso,,Burkina Faso
+33,Cambodia,,Cambodia
+34,Cameroon,,Cameroon
+35,Canada," Montreal, QC",Canada
+36,Canada,Alberta,Canada
+37,Canada,British Columbia,Canada
+38,Canada,"Calgary, Alberta",Canada
+39,Canada,"Edmonton, Alberta",Canada
+40,Canada,Grand Princess,Canada
+41,Canada,"London, ON",Canada
+42,Canada,Manitoba,Canada
+43,Canada,New Brunswick,Canada
+44,Canada,Ontario,Canada
+45,Canada,Quebec,Canada
+46,Canada,Saskatchewan,Canada
+47,Canada,"Toronto, ON",Canada
+48,Cayman Islands,,Cayman Islands
+49,Channel Islands,,Channel Islands
+50,Chile,,Chile
+51,China,Anhui,China
+52,China,Beijing,China
+53,China,Chongqing,China
+54,China,Fujian,China
+55,China,Gansu,China
+56,China,Guangdong,China
+57,China,Guangxi,China
+58,China,Guizhou,China
+59,China,Hainan,China
+60,China,Hebei,China
+61,China,Heilongjiang,China
+62,China,Henan,China
+63,China,Hong Kong,China
+64,China,Hubei,China
+65,China,Hunan,China
+66,China,Inner Mongolia,China
+67,China,Jiangsu,China
+68,China,Jiangxi,China
+69,China,Jilin,China
+70,China,Liaoning,China
+71,China,Macau,China
+72,China,Ningxia,China
+73,China,Qinghai,China
+74,China,Shaanxi,China
+75,China,Shandong,China
+76,China,Shanghai,China
+77,China,Shanxi,China
+78,China,Sichuan,China
+79,China,Tianjin,China
+80,China,Tibet,China
+81,China,Xinjiang,China
+82,China,Yunnan,China
+83,China,Zhejiang,China
+84,Colombia,,Colombia
+85,Congo (Kinshasa),,Congo
+86,Costa Rica,,Costa Rica
+87,Cote d'Ivoire,,Cote d'Ivoire
+88,Croatia,,Croatia
+89,Cruise Ship,Diamond Princess,CruiseShip
+90,Cuba,,Cuba
+91,Curacao,,Curacao
+92,Cyprus,,Cyprus
+93,Czech Republic,,Czech Republic
+94,Czechia,,Czechia
+95,Denmark,Denmark,Denmark
+96,Denmark,Faroe Islands,Denmark
+97,Denmark,,Denmark
+98,Dominican Republic,,Dominican Republic
+99,Ecuador,,Ecuador
+100,Egypt,,Egypt
+101,Estonia,,Estonia
+102,Eswatini,,Eswatini
+103,Ethiopia,,Ethiopia
+104,Faroe Islands,,Faroe Islands
+105,Finland,,Finland
+106,France,Fench Guiana,France
+107,France,France,France
+108,France,French Polynesia,France
+109,France,Saint Barthelemy,France
+110,France,St Martin,France
+111,France,,France
+112,French Guiana,,French Guiana
+113,Gabon,,Gabon
+114,Georgia,,Georgia
+115,Germany,Bavaria,Germany
+116,Germany,,Germany
+117,Ghana,,Ghana
+118,Gibraltar,,Gibraltar
+119,Greece,,Greece
+120,Guadeloupe,,Guadeloupe
+121,Guatemala,,Guatemala
+122,Guernsey,,Guernsey
+123,Guinea,,Guinea
+124,Guyana,,Guyana
+125,Holy See,,Holy See
+126,Honduras,,Honduras
+127,Hong Kong,Hong Kong,Hong Kong
+128,Hong Kong SAR,Hong Kong,Hong Kong SAR
+129,Hungary,,Hungary
+130,Iceland,,Iceland
+131,India,,India
+132,Indonesia,,Indonesia
+133,Iran,,Iran
+134,Iran (Islamic Republic of),,Iran
+135,Iraq,None,Iraq
+136,Iraq,,Iraq
+137,Ireland,,Ireland
+138,Israel,From Diamond Princess,Israel
+139,Israel,,Israel
+140,Italy,,Italy
+141,Ivory Coast,,Ivory Coast
+142,Jamaica,,Jamaica
+143,Japan,,Japan
+144,Jersey,,Jersey
+145,Jordan,,Jordan
+146,Kazakhstan,,Kazakhstan
+147,Kenya,,Kenya
+148,"Korea, South",,Skorea
+149,Kuwait,,Kuwait
+150,Latvia,,Latvia
+206,Lebanon,None,Lebanon
+222,Lebanon,,Lebanon
+264,Liechtenstein,,Liechtenstein
+268,Lithuania,,Lithuania
+269,Luxembourg,,Luxembourg
+271,Macao SAR,Macau,Macao SAR
+276,Macau,Macau,Macau
+277,Mainland China,Anhui,China
+366,Mainland China,Beijing,China
+485,Mainland China,Chongqing,China
+486,Mainland China,Fujian,China
+503,Mainland China,Gansu,China
+509,Mainland China,Guangdong,China
+513,Mainland China,Guangxi,China
+521,Mainland China,Guizhou,China
+522,Mainland China,Hainan,China
+523,Mainland China,Hebei,China
+524,Mainland China,Heilongjiang,China
+525,Mainland China,Henan,China
+527,Mainland China,Hubei,China
+529,Mainland China,Hunan,China
+532,Mainland China,Inner Mongolia,China
+536,Mainland China,Jiangsu,China
+537,Mainland China,Jiangxi,China
+545,Mainland China,Jilin,China
+547,Mainland China,Liaoning,China
+553,Mainland China,Ningxia,China
+555,Mainland China,Qinghai,China
+556,Mainland China,Shaanxi,China
+558,Mainland China,Shandong,China
+559,Mainland China,Shanghai,China
+560,Mainland China,Shanxi,China
+561,Mainland China,Sichuan,China
+564,Mainland China,Tianjin,China
+570,Mainland China,Tibet,China
+571,Mainland China,Xinjiang,China
+572,Mainland China,Yunnan,China
+573,Mainland China,Zhejiang,China
+575,Malaysia,,Malaysia
+576,Maldives,,Maldives
+578,Malta,,Malta
+579,Martinique,,Martinique
+580,Mauritania,,Mauritania
+581,Mexico,,Mexico
+582,Moldova,,Moldova
+583,Monaco,,Monaco
+584,Mongolia,,Mongolia
+585,Morocco,,Morocco
+588,Namibia,,Namibia
+589,Nepal,,Nepal
+590,Netherlands,,Netherlands
+591,New Zealand,,New Zealand
+592,Nigeria,,Nigeria
+594,North Ireland,,North Ireland
+600,North Macedonia,,North Macedonia
+601,Norway,,Norway
+602,occupied Palestinian territory,,occupied Palestinian territory
+603,Oman,,Oman
+605,Others,Cruise Ship,Others
+607,Others,Diamond Princess cruise ship,Others
+680,Pakistan,,Pakistan
+695,Palestine,,Palestine
+814,Panama,,Panama
+896,Paraguay,,Paraguay
+917,Peru,,Peru
+1010,Philippines,,Philippines
+1065,Poland,,Poland
+1131,Portugal,,Portugal
+1144,Qatar,,Qatar
+1176,Republic of Ireland,,Republic of Ireland
+1187,Republic of Korea,,Republic of Korea
+1189,Republic of Moldova,,Republic of Moldova
+1192,Reunion,,Reunion
+1196,Romania,,Romania
+1197,Russia,,Russia
+1201,Russian Federation,,Russian Federation
+1204,Rwanda,,Rwanda
+1205,Saint Barthelemy,,Saint Barthelemy
+1206,Saint Lucia,,Saint Lucia
+1208,Saint Martin,,Saint Martin
+1210,Saint Vincent and the Grenadines,,SV&Grenadines
+1214,San Marino,,San Marino
+1215,Saudi Arabia,,Saudi Arabia
+1216,Senegal,,Senegal
+1218,Serbia,,Serbia
+1220,Seychelles,,Seychelles
+1223,Singapore,,Singapore
+1227,Slovakia,,Slovakia
+1229,Slovenia,,Slovenia
+1232,South Africa,,South Africa
+1234,South Korea,,Skorea
+1237,Spain,,Spain
+1238,Sri Lanka,,Sri Lanka
+1239,St. Martin,,St. Martin
+1241,Sudan,,Sudan
+1242,Suriname,,Suriname
+1243,Sweden,,Sweden
+1244,Switzerland,,Switzerland
+1245,Taipei and environs,Taiwan,Taipei and environs
+1249,Taiwan,Taiwan,Taiwan
+1251,Taiwan*,,Taiwan
+1256,Thailand,,Thailand
+1263,Togo,,Togo
+1266,Trinidad and Tobago,,Trinidad and Tobago
+1271,Tunisia,,Tunisia
+1272,Turkey,,Turkey
+1273,UK,,UK
+1274,Ukraine,,Ukraine
+1275,United Arab Emirates,,United Arab Emirates
+1277,United Kingdom,Channel Islands,United Kingdom
+1278,United Kingdom,Gibraltar,United Kingdom
+1279,United Kingdom,UK,United Kingdom
+1280,United Kingdom,United Kingdom,United Kingdom
+1281,Uruguay,,Uruguay
+1283,US," Norfolk County, MA",MA
+1284,US,Alabama,AL
+1285,US,"Alameda County, CA",CA
+1287,US,Alaska,AK
+1289,US,Arizona,AZ
+1290,US,Arkansas,AK
+1292,US,"Ashland, NE",NE
+1293,US,"Bennington County, VT",VT
+1294,US,"Bergen County, NJ",NJ
+1295,US,"Berkeley, CA",CA
+1296,US,"Berkshire County, MA",MA
+1297,US,"Boston, MA",MA
+1298,US,"Broward County, FL",FL
+1301,US,California,CA
+1302,US,"Carver County, MN",MN
+1303,US,"Charleston County, SC",SC
+1304,US,"Charlotte County, FL",FL
+1306,US,"Chatham County, NC",NC
+1307,US,"Cherokee County, GA",GA
+1311,US,Chicago,IL
+1312,US,"Chicago, IL",IL
+1313,US,"Clark County, NV",NV
+1314,US,"Clark County, WA",WA
+1315,US,"Cobb County, GA",GA
+1316,US,"Collin County, TX",TX
+1317,US,Colorado,CO
+1318,US,Connecticut,CN
+1320,US,"Contra Costa County, CA",CA
+1321,US,"Cook County, IL",IL
+1331,US,"Davidson County, TN",TN
+1610,US,"Davis County, UT",UT
+1616,US,Delaware,DE
+1627,US,"Delaware County, PA",PA
+1637,US,"Denver County, CO",CO
+1988,US,Diamond Princess,CruiseShip
+1991,US,District of Columbia,DC
+1992,US,"Douglas County, CO",CA
+1995,US,"Douglas County, NE",NA
+1996,US,"Douglas County, OR",OR
+1997,US,"El Paso County, CO",CO
+1998,US,"Fairfax County, VA",VA
+1999,US,"Fairfield County, CT",CT
+2000,US,"Fayette County, KY",KY
+2001,US,Florida,FL
+2002,US,"Floyd County, GA",GA
+2005,US,"Fort Bend County, TX",TX
+2007,US,"Fresno County, CA",CA
+2008,US,"Fulton County, GA",GA
+2011,US,Georgia,GA
+2012,US,"Grafton County, NH",NH
+2013,US,Grand Princess,CruiseShip
+2014,US,Grand Princess Cruise Ship,CruiseShip
+2016,US,"Grant County, WA",WA
+2017,US,"Harford County, MD",MD
+2019,US,"Harris County, TX",TX
+2021,US,"Harrison County, KY",KY
+2023,US,Hawaii,HI
+2024,US,"Hendricks County, IN",IN
+2028,US,"Hillsborough, FL",FL
+2029,US,"Honolulu County, HI",HI
+2031,US,"Hudson County, NJ",NJ
+2032,US,"Humboldt County, CA",CA
+2033,US,Idaho,ID
+2034,US,Illinois,IL
+2035,US,Indiana,IN
+2036,US,Iowa,IA
+2039,US,"Jackson County, OR ",OR
+2040,US,"Jefferson County, KY",KY
+2041,US,"Jefferson County, WA",WA
+2043,US,"Jefferson Parish, LA",LA
+2044,US,"Johnson County, IA",IA
+2045,US,"Johnson County, KS",KS
+2059,US,Kansas,KS
+2060,US,Kentucky,KY
+2068,US,"Kershaw County, SC",SC
+2070,US,"King County, WA",WA
+2074,US,"Kittitas County, WA",WA
+2075,US,"Klamath County, OR",OR
+2078,US,"Lackland, TX",TX
+2079,US,"Lackland, TX (From Diamond Princess)",TX
+2087,US,"Lee County, FL",FL
+2088,US,"Los Angeles, CA",
+2092,US,Louisiana,LA
+2096,US,"Madera County, CA",CA
+2102,US,"Madison, WI",WI
+2103,US,Maine,ME
+2106,US,"Manatee County, FL",FL
+2107,US,"Maricopa County, AZ",AZ
+2113,US,"Marion County, IN",IN
+2114,US,"Marion County, OR",OR
+2115,US,Maryland,MD
+2119,US,Massachusetts,MA
+2120,US,Michigan,MI
+2121,US,"Middlesex County, MA",MA
+2128,US,Minnesota,MN
+2129,US,Mississippi,MS
+2132,US,Missouri,MI
+2133,US,Montana,MO
+2139,US,"Montgomery County, MD",MD
+2140,US,"Montgomery County, PA",PA
+2141,US,"Montgomery County, TX",TX
+2142,US,"Nassau County, NY",NY
+2144,US,Nebraska,NE
+2151,US,Nevada,NV
+2152,US,New Hampshire,NH
+2153,US,New Jersey,NJ
+2154,US,New Mexico,NM
+2155,US,New York,NY
+2157,US,"New York City, NY",NY
+2158,US,"New York County, NY",NY
+2159,US,"Norfolk County, MA",MA
+2162,US,North Carolina,NC
+2163,US,North Dakota,ND
+2164,US,"Norwell County, MA",MA
+2165,US,Ohio,OH
+2170,US,"Okaloosa County, FL",FL
+2171,US,Oklahoma,OK
+2172,US,"Omaha, NE (From Diamond Princess)",NE
+2173,US,"Orange County, CA",CA
+2174,US,"Orange, CA",CA
+2175,US,Oregon,OR
+2176,US,Pennsylvania,PN
+2180,US,"Pierce County, WA",WA
+2182,US,"Pinal County, AZ",AZ
+2184,US,"Placer County, CA",CA
+2185,US,"Plymouth County, MA",MA
+2186,US,"Polk County, GA",GA
+2187,US,"Portland, OR",OR
+2188,US,"Providence County, RI",RI
+2189,US,"Providence, RI",RI
+2190,US,Puerto Rico,PR
+2192,US,"Queens County, NY",NY
+2196,US,"Ramsey County, MN",MN
+2197,US,Rhode Island,RI
+2198,US,"Riverside County, CA",CA
+2199,US,"Rockingham County, NH",NH
+2200,US,"Rockland County, NY",NY
+2201,US,"Sacramento County, CA",CA
+2202,US,"San Antonio, TX",TX
+2203,US,"San Benito, CA",CA
+2335,US,"San Diego County, CA",CA
+2448,US,"San Francisco County, CA",CA
+2449,US,"San Mateo, CA",CA
+2492,US,"Santa Clara County, CA",CA
+2510,US,"Santa Clara, CA",CA
+2522,US,"Santa Cruz County, CA",CA
+2553,US,"Santa Rosa County, FL",FL
+2554,US,"Sarasota, FL",FL
+2595,US,"Saratoga County, NY",NY
+2607,US,"Seattle, WA",WA
+2618,US,"Shasta County, CA",CA
+2854,US,"Shelby County, TN",TN
+2888,US,"Snohomish County, WA",WA
+2890,US,"Sonoma County, CA",CA
+2898,US,South Carolina,SC
+2901,US,South Dakota,SD
+2903,US,"Spartanburg County, SC",SC
+2908,US,"Spokane County, WA",WA
+2912,US,"St. Louis County, MO",MO
+2913,US,"Suffolk County, MA",MA
+2918,US,"Suffolk County, NY",NY
+2919,US,"Summit County, CO",CO
+2922,US,"Tempe, AZ",AZ
+2923,US,Tennessee,TN
+2928,US,Texas,TX
+2929,US,"Travis, CA",CA
+2933,US,"Travis, CA (From Diamond Princess)",CA
+2941,US,"Tulsa County, OK",OK
+3030,US,"Ulster County, NY",NY
+3246,US,"Umatilla, OR",OR
+3308,US,Unassigned Location (From Diamond Princess),CruiseShip
+3412,US,"Unassigned Location, VT",VT
+3675,US,"Unassigned Location, WA",WA
+3860,US,"Unknown Location, MA",MA
+3871,US,Utah,UT
+3874,US,Vermont,VT
+3876,US,"Virgin Islands, U.S.",Visl
+3885,US,Virginia,VA
+3887,US,"Volusia County, FL",FL
+3889,US,"Wake County, NC",NC
+3890,US,Washington,WA
+3894,US,"Washington County, OR",OR
+3904,US,"Washington, D.C.",DC
+3905,US,"Washoe County, NV",NV
+3908,US,"Wayne County, PA",PA
+3910,US,West Virginia,WV
+3911,US,"Westchester County, NY",NY
+3917,US,"Williamson County, TN",TN
+3920,US,Wisconsin,WI
+3921,US,Wyoming,WY
+3922,US,"Yolo County, CA",CA
+3923,US,Guam,GU
+3924,US,Virgin Islands,VI
+3925,Vatican City,,Vatican City
+3926,Venezuela,,Venezuela
+3927,Viet Nam,,Viet Nam
+3928,Vietnam,,Vietnam
