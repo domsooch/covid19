@@ -468,273 +468,307 @@
 505,US,"San Diego County, CA",,
 506,US,"Seattle, WA",,
 507,US,"Tempe, AZ",,
-548,Germany,Bavaria,,
-552,US,Illinois,,
-553,US,California,,
-555,Canada,Ontario,,
-560,US,Washington,,
-561,US,Arizona,,
-650,Others,Cruise Ship,,
-769,Palestine,,31.9522,35.2332
-770,US,"New York County, NY",40.7128,-74.006
-797,US,"Unassigned Location, WA",47.7511,-120.7401
-805,Saint Barthelemy,,17.9,-62.8333
-806,US,"Contra Costa County, CA",37.8534,-121.9018
-807,US,"Harris County, TX",29.7752,-95.3103
-808,US,"Montgomery County, MD",39.1547,-77.2405
-809,US,"Orange County, CA",33.7879,-117.8531
-811,US,"Suffolk County, MA",42.3601,-71.0589
-820,US,"Bergen County, NJ",40.9263,-74.077
-821,US,"Denver County, CO",39.7392,-104.9903
-829,US,"San Francisco County, CA",37.7749,-122.4194
-831,US,"Summit County, CO",39.5912,-106.064
-840,Canada,"Calgary, Alberta",51.0447,-114.0719
-844,Faroe Islands,,61.8926,-6.9118
-845,Gibraltar,,36.1408,-5.3536
-848,Liechtenstein,,47.14,9.55
-860,Tunisia,,34.0,9.0
-862,US,"Chatham County, NC",35.7211,-79.1781
-863,US,"Clark County, NV",36.0796,-115.094
-864,US,"Delaware County, PA",39.9078,-75.3879
-865,US,"Douglas County, NE",41.3148,-96.1951
-866,US,"Fayette County, KY",38.0606,-84.4803
-867,US,"Floyd County, GA",34.2829,-85.2308
-868,US,"Fort Bend County, TX",29.5693,-95.8143
-869,US,"Grant County, WA",47.1981,-119.3732
-872,US,"Marion County, IN",39.8362,-86.1752
-873,US,"Middlesex County, MA",42.4672,-71.2874
-874,US,"Nassau County, NY",40.6546,-73.5594
-875,US,"Norwell County, MA",42.1615,-70.7928
-876,US,"Ramsey County, MN",44.9964,-93.0616
-878,US,"Santa Rosa County, FL",30.769,-86.9824
-884,US,"Washoe County, NV",40.5608,-119.6035
-885,US,"Wayne County, PA",41.6739,-75.2479
-886,US,"Williamson County, TN",35.9179,-86.8622
-887,US,"Yolo County, CA",38.7646,-121.9018
-889,Vatican City,,41.9029,12.4534
-930,Iran,,,
-939,US,"Omaha, NE (From Diamond Princess)",,
-942,Australia,From Diamond Princess,,
-945,US,"Travis, CA (From Diamond Princess)",,
-955,US,"Lackland, TX (From Diamond Princess)",,
-962,Egypt,,,
-964,Israel,From Diamond Princess,,
-965,Lebanon,,,
-971,US,"Humboldt County, CA",,
-975,US,"Sacramento County, CA",,
-976,US,"San Antonio, TX",,
-979,Iraq,None,,
-1098,Australia,,,
-1099,Mexico,,,
-1100,Brazil,,,
-1101,Colombia,,,
-1140,Kuwait,,,
-1141,US,Unassigned Location (From Diamond Princess),,
-1143,Bahrain,,,
-1153,Switzerland,,,
-1155,Iraq,,,
-1157,Norway,,,
-1160,Croatia,,,
-1163,Greece,,,
-1164,Israel,,,
-1165,Oman,,,
-1166,Austria,,,
-1169,Romania,,,
-1173,Pakistan,,,
-1180, Azerbaijan,,,
-1181,Afghanistan,,,
-1182,Algeria,,,
-1183,Belarus,,,
-1187,Canada," Montreal, QC",,
-1189,Denmark,,,
-1191,Estonia,,,
-1192,Georgia,,,
-1193,Iceland,,,
-1194,Lithuania,,,
-1198,Netherlands,,,
-1199,New Zealand,,,
-1200,Nigeria,,,
-1201,North Ireland,,,
-1202,North Macedonia,,,
-1203,San Marino,,,
-1294,US,Chicago,,
-1349,Ivory Coast,,,
-1594,Equatorial Guinea,,1.5,10.0
-1623,occupied Palestinian territory,,31.9522,35.2332
-1687,US,"Santa Clara County, CA",37.3541,-121.9552
-1700,US,Grand Princess Cruise Ship,37.6489,-122.6655
-1743,US,"Norfolk County, MA",42.1767,-71.1449
-1748,US,"Montgomery County, PA",40.229,-75.3879
-1757,US,"Kershaw County, SC",34.3672,-80.5883
-1760,US,"Pierce County, WA",47.0676,-122.1295
-1761,US,"Rockland County, NY",41.1489,-73.983
-1770,US,"Broward County, FL",26.1901,-80.3659
-1771,US,"Cobb County, GA",33.8999,-84.5641
-1772,US,"Douglas County, CO",39.2587,-104.9389
-1774,US,"Johnson County, IA",41.6699,-91.5984
-1776,US,"Providence County, RI",41.8882,-71.4774
-1788,St. Martin,,18.0708,-63.0501
-1790,US,"Alameda County, CA",37.6017,-121.7195
-1793,US,"Fairfax County, VA",38.9085,-77.2405
-1794,US,"Harrison County, KY",38.4333,-84.3542
-1795,US,"Hendricks County, IN",39.8065,-86.5401
-1797,US,"Honolulu County, HI",21.307,-157.8584
-1798,US,"Jackson County, OR ",42.3345,-122.7647
-1799,US,"Lee County, FL",26.663,-81.9535
-1800,US,"Manatee County, FL",27.4799,-82.3452
-1801,US,"Pinal County, AZ",32.8162,-111.2845
-1805,US,"Saratoga County, NY",43.0324,-73.936
-1807,US,"Washington, D.C.",38.9072,-77.0369
-1827,US,"Bennington County, VT",43.0279,-73.135
-1828,US,"Berkshire County, MA",42.3118,-73.1822
-1829,US,"Carver County, MN",44.8254,-93.7842
-1830,US,"Charleston County, SC",32.7957,-79.7848
-1831,US,"Charlotte County, FL",26.8946,-81.9098
-1833,US,"Cherokee County, GA",34.2515,-84.4803
-1834,US,"Clark County, WA",45.7466,-122.5194
-1835,US,"Collin County, TX",33.1795,-96.493
-1836,US,"Davidson County, TN",36.1343,-86.822
-1837,US,"Davis County, UT",40.9629,-112.0953
-1839,US,"Douglas County, OR",43.1261,-123.2492
-1840,US,"El Paso County, CO",38.9108,-104.4723
-1841,US,"Fairfield County, CT",41.256,-73.3709
-1843,US,"Fresno County, CA",36.9859,-119.2321
-1845,US,"Harford County, MD",39.5839,-76.3637
-1846,US,"Hudson County, NJ",40.7453,-74.0535
-1848,US,"Jefferson County, KY",38.1938,-85.6435
-1849,US,"Jefferson County, WA",47.7425,-123.304
-1850,US,"Jefferson Parish, LA",29.6499,-90.1121
-1851,US,"Johnson County, KS",38.8454,-94.8521
-1852,US,"Kittitas County, WA",47.175,-120.9319
-1853,US,"Klamath County, OR",42.6953,-121.6142
-1854,US,"Madera County, CA",37.2519,-119.6963
-1857,US,"Marion County, OR",44.8446,-122.5927
-1858,US,"Okaloosa County, FL",30.5773,-86.6611
-1859,US,"Plymouth County, MA",42.1615,-70.7928
-1860,US,"Polk County, GA",34.0132,-85.1479
-1862,US,"Riverside County, CA",33.9533,-117.3961
-1863,US,"Rockingham County, NH",42.9931,-71.0498
-1867,US,"Shasta County, CA",40.7909,-121.8474
-1868,US,"Shelby County, TN",35.1269,-89.9253
-1869,US,"Spartanburg County, SC",34.8606,-81.9535
-1870,US,"Spokane County, WA",47.6587,-117.4225
-1871,US,"St. Louis County, MO",38.6103,-90.4125
-1872,US,"Suffolk County, NY",40.9849,-72.6151
-1873,US,"Tulsa County, OK",36.1593,-95.941
-1874,US,"Ulster County, NY",41.8586,-74.3118
-1876,US,"Unknown Location, MA",42.4072,-71.3824
-1877,US,"Volusia County, FL",29.028,-81.0755
-1887,US,"Montgomery County, TX",30.3213,-95.4778
-2166,US,"Ashland, NE",,
-2172,US,"Travis, CA",,
-2183,US,"Lackland, TX",,
-2193,Lebanon,None,,
-2547,"Korea, South",,36.0,128.0
-2558,Cruise Ship,Diamond Princess,35.4437,139.638
-2568,United Kingdom,UK,55.3781,-3.436
-2573,China,Hebei,39.549,116.1306
-2590,China,Gansu,37.8099,101.0583
-2891,Austria,None,,
-3004,Iran (Islamic Republic of),,32.0,53.0
-3005,Republic of Korea,,36.0,128.0
-3048,Hong Kong SAR,Hong Kong,22.3,114.2
-3066,Taipei and environs,Taiwan,23.7,121.0
-3078,Viet Nam,,16.0,108.0
-3109,Macao SAR,Macau,22.1667,113.55
-3110,Russian Federation,,60.0,90.0
-3151,Republic of Moldova,,47.4116,28.3699
-3163,Saint Martin,,18.0708,-63.0501
-3174,Channel Islands,,49.3723,-2.3644
-3360,China,Henan,33.882,113.61399999999999
-3369,China,Heilongjiang,47.861999999999995,127.7615
-3371,China,Shanghai,31.201999999999998,121.4491
-3376,China,Yunnan,24.974,101.48700000000001
-3401,United Kingdom,Channel Islands,49.372284,-2.3643509999999996
-3444,United Kingdom,United Kingdom,55.3781,-3.4360000000000004
-3457,France,French Polynesia,-17.6797,149.4068
-3459,Cayman Islands,,19.3133,-81.2546
-3461,Czechia,,49.8175,15.472999999999999
-3481,Russia,,61.523999999999994,105.3188
-3512,Cameroon,,3.8480000000000003,11.5021
-3519,US,Grand Princess,37.64894,-122.665479
-3530,US,Alaska,61.370716,-152.404419
-3531,US,Arizona,33.729759,-111.431221
-3532,US,Arkansas,34.969704,-92.37312299999999
-3533,US,California,36.116203000000006,-119.681564
-3534,US,Colorado,39.059810999999996,-105.311104
-3535,US,Connecticut,41.597782,-72.755371
-3536,US,Delaware,39.318523,-75.507141
-3537,US,District of Columbia,38.897438,-77.02681700000001
-3538,US,Florida,27.766278999999997,-81.68678299999999
-3539,US,Georgia,33.040619,-83.643074
-3540,US,Hawaii,21.094317999999998,-157.49833700000002
-3541,US,Idaho,44.240459,-114.47882800000001
-3542,US,Illinois,40.349457,-88.986137
-3543,US,Indiana,39.849426,-86.258278
-3544,US,Iowa,42.011539,-93.210526
-3545,US,Kansas,38.5266,-96.726486
-3546,US,Kentucky,37.66814,-84.670067
-3547,US,Louisiana,31.169546,-91.867805
-3548,US,Maine,44.693946999999994,-69.381927
-3549,US,Maryland,39.063946,-76.80210100000001
-3550,US,Massachusetts,42.230171,-71.530106
-3551,US,Michigan,43.326617999999996,-84.53609499999999
-3552,US,Minnesota,45.694454,-93.900192
-3553,US,Mississippi,32.741646,-89.678696
-3554,US,Missouri,38.456084999999995,-92.288368
-3555,US,Montana,46.921925,-110.454353
-3556,US,Nebraska,41.125370000000004,-98.26808199999999
-3557,US,Nevada,38.313515,-117.055374
-3558,US,New Hampshire,43.452492,-71.563896
-3559,US,New Jersey,40.298904,-74.521011
-3560,US,New Mexico,34.840515,-106.24848200000001
-3561,US,New York,42.165726,-74.948051
-3562,US,North Carolina,35.630066,-79.80641899999999
-3563,US,North Dakota,47.528912,-99.784012
-3564,US,Ohio,40.388783000000004,-82.764915
-3565,US,Oklahoma,35.565342,-96.928917
-3566,US,Oregon,44.572021,-122.07093799999998
-3567,US,Pennsylvania,40.590752,-77.209755
-3568,US,Rhode Island,41.680893,-71.51178
-3569,US,South Carolina,33.856891999999995,-80.94500699999999
-3570,US,South Dakota,44.299782,-99.438828
-3571,US,Tennessee,35.747845,-86.69234499999999
-3572,US,Texas,31.054486999999998,-97.563461
-3573,US,Utah,40.150032,-111.86243400000001
-3574,US,Vermont,44.045876,-72.710686
-3575,US,Virginia,37.769337,-78.16996800000001
-3576,US,Washington,47.400902,-121.490494
-3577,US,West Virginia,38.491226,-80.954453
-3578,US,Wisconsin,44.268543,-89.616508
-3579,US,Wyoming,42.755966,-107.30248999999999
-3586,Guyana,,5.0,-58.75
-3802,Republic of Ireland,,53.1424,-7.6921
-3806,Ireland,,53.4167,-8.0
-3864,Canada,"Edmonton, Alberta",53.5461,-113.4938
-3968,US,"Unassigned Location, VT",44.3378,-72.7563
-4174,US,"Seattle, WA",47.6062,-122.3321
-4195,US,"Chicago, IL",41.8781,-87.6298
-4231,US,"Portland, OR",45.5051,-122.675
-4416,France,Fench Guiana,4.0,-53.0
-4460,Curacao,,12.1696,-68.99
-4473,Mauritania,,21.0079,10.9408
-4483,US,"Virgin Islands, U.S.",18.3358,-64.8963
-4599,US,Oregon,44.571999999999996,-122.0709
-4673,France,French Guiana,3.9339,-53.1258
-4680,Liechtenstein,,47.166000000000004,9.5554
-4698,Kosovo,,42.6026,20.903000000000002
-4714,Congo (Brazzaville),,-4.0383,21.7587
-4720,France,Mayotte,-12.8275,45.1662
-4739,US,North Dakota,47.5289,-99.78399999999999
-5199,Montenegro,,42.5,19.3
-5314,Australia,Western Australia,,
-5332,Ireland,,,
-5334,Luxembourg,,,
-5336,Monaco,,,
-5341,Qatar,,,
-5349,US,"Portland, OR",,
-5351,US,"Snohomish County, WA",,
-5589,Cuba,,22.0,-80.0
-5801,US,"Queens County, NY",40.7282,-73.7949
-6551,US,"Middlesex County, MA",41.912,-70.7168
-6556,US,"Santa Cruz County, CA",36.9741,-122.0308
+725,Mauritius,,-20.3484,57.5522
+744,US,United States Virgin Islands,18.3358,-64.8963
+745,Netherlands,Aruba,12.5211,-69.9683
+746,"Bahamas, The",,25.0343,-77.3963
+747,France,New Caledonia,-20.9043,165.618
+752,Cabo Verde,,16.5388,-23.0418
+755,El Salvador,,13.7942,-88.8965
+758,Madagascar,,-18.7669,46.8691
+762,Zimbabwe,,-19.0154,29.1549
+763,Angola,,-11.2027,17.8739
+767,Denmark,Greenland,71.7069,-42.6043
+769,Haiti,,18.9712,-72.2852
+772,Nicaragua,,12.8654,-85.2072
+775,United Kingdom,Bermuda,32.3078,-64.7505
+776,Zambia,,-13.1339,27.8493
+778,Canada,Northwest Territories,64.8255,-124.8457
+779,Cape Verde,,15.1111,-23.6167
+780,Chad,,15.4542,18.7322
+783,East Timor,,-8.55,125.56
+784,Eritrea,,15.1794,39.7823
+786,Fiji,,-17.7134,178.065
+790,Netherlands,Sint Maarten,18.0425,-63.0548
+791,Niger,,17.6078,8.0817
+792,Papua New Guinea,,-6.315,143.9555
+796,Uganda,,1.0,32.0
+797,United Kingdom,Isle of Man,54.2361,-4.5481
+804,Greenland,,72.0,-40.0
+852,Germany,Bavaria,,
+856,US,Illinois,,
+857,US,California,,
+859,Canada,Ontario,,
+864,US,Washington,,
+865,US,Arizona,,
+954,Others,Cruise Ship,,
+1073,Palestine,,31.9522,35.2332
+1074,US,"New York County, NY",40.7128,-74.006
+1101,US,"Unassigned Location, WA",47.7511,-120.7401
+1109,Saint Barthelemy,,17.9,-62.8333
+1110,US,"Contra Costa County, CA",37.8534,-121.9018
+1111,US,"Harris County, TX",29.7752,-95.3103
+1112,US,"Montgomery County, MD",39.1547,-77.2405
+1113,US,"Orange County, CA",33.7879,-117.8531
+1115,US,"Suffolk County, MA",42.3601,-71.0589
+1124,US,"Bergen County, NJ",40.9263,-74.077
+1125,US,"Denver County, CO",39.7392,-104.9903
+1133,US,"San Francisco County, CA",37.7749,-122.4194
+1135,US,"Summit County, CO",39.5912,-106.064
+1144,Canada,"Calgary, Alberta",51.0447,-114.0719
+1148,Faroe Islands,,61.8926,-6.9118
+1149,Gibraltar,,36.1408,-5.3536
+1152,Liechtenstein,,47.14,9.55
+1164,Tunisia,,34.0,9.0
+1166,US,"Chatham County, NC",35.7211,-79.1781
+1167,US,"Clark County, NV",36.0796,-115.094
+1168,US,"Delaware County, PA",39.9078,-75.3879
+1169,US,"Douglas County, NE",41.3148,-96.1951
+1170,US,"Fayette County, KY",38.0606,-84.4803
+1171,US,"Floyd County, GA",34.2829,-85.2308
+1172,US,"Fort Bend County, TX",29.5693,-95.8143
+1173,US,"Grant County, WA",47.1981,-119.3732
+1176,US,"Marion County, IN",39.8362,-86.1752
+1177,US,"Middlesex County, MA",42.4672,-71.2874
+1178,US,"Nassau County, NY",40.6546,-73.5594
+1179,US,"Norwell County, MA",42.1615,-70.7928
+1180,US,"Ramsey County, MN",44.9964,-93.0616
+1182,US,"Santa Rosa County, FL",30.769,-86.9824
+1188,US,"Washoe County, NV",40.5608,-119.6035
+1189,US,"Wayne County, PA",41.6739,-75.2479
+1190,US,"Williamson County, TN",35.9179,-86.8622
+1191,US,"Yolo County, CA",38.7646,-121.9018
+1193,Vatican City,,41.9029,12.4534
+1234,Iran,,,
+1243,US,"Omaha, NE (From Diamond Princess)",,
+1246,Australia,From Diamond Princess,,
+1249,US,"Travis, CA (From Diamond Princess)",,
+1259,US,"Lackland, TX (From Diamond Princess)",,
+1266,Egypt,,,
+1268,Israel,From Diamond Princess,,
+1269,Lebanon,,,
+1275,US,"Humboldt County, CA",,
+1279,US,"Sacramento County, CA",,
+1280,US,"San Antonio, TX",,
+1283,Iraq,None,,
+1402,Australia,,,
+1403,Mexico,,,
+1404,Brazil,,,
+1405,Colombia,,,
+1444,Kuwait,,,
+1445,US,Unassigned Location (From Diamond Princess),,
+1447,Bahrain,,,
+1457,Switzerland,,,
+1459,Iraq,,,
+1461,Norway,,,
+1464,Croatia,,,
+1467,Greece,,,
+1468,Israel,,,
+1469,Oman,,,
+1470,Austria,,,
+1473,Romania,,,
+1477,Pakistan,,,
+1484, Azerbaijan,,,
+1485,Afghanistan,,,
+1486,Algeria,,,
+1487,Belarus,,,
+1491,Canada," Montreal, QC",,
+1493,Denmark,,,
+1495,Estonia,,,
+1496,Georgia,,,
+1497,Iceland,,,
+1498,Lithuania,,,
+1502,Netherlands,,,
+1503,New Zealand,,,
+1504,Nigeria,,,
+1505,North Ireland,,,
+1506,North Macedonia,,,
+1507,San Marino,,,
+1598,US,Chicago,,
+1653,Ivory Coast,,,
+1898,Equatorial Guinea,,1.5,10.0
+1927,occupied Palestinian territory,,31.9522,35.2332
+1991,US,"Santa Clara County, CA",37.3541,-121.9552
+2004,US,Grand Princess Cruise Ship,37.6489,-122.6655
+2047,US,"Norfolk County, MA",42.1767,-71.1449
+2052,US,"Montgomery County, PA",40.229,-75.3879
+2061,US,"Kershaw County, SC",34.3672,-80.5883
+2064,US,"Pierce County, WA",47.0676,-122.1295
+2065,US,"Rockland County, NY",41.1489,-73.983
+2074,US,"Broward County, FL",26.1901,-80.3659
+2075,US,"Cobb County, GA",33.8999,-84.5641
+2076,US,"Douglas County, CO",39.2587,-104.9389
+2078,US,"Johnson County, IA",41.6699,-91.5984
+2080,US,"Providence County, RI",41.8882,-71.4774
+2092,St. Martin,,18.0708,-63.0501
+2094,US,"Alameda County, CA",37.6017,-121.7195
+2097,US,"Fairfax County, VA",38.9085,-77.2405
+2098,US,"Harrison County, KY",38.4333,-84.3542
+2099,US,"Hendricks County, IN",39.8065,-86.5401
+2101,US,"Honolulu County, HI",21.307,-157.8584
+2102,US,"Jackson County, OR ",42.3345,-122.7647
+2103,US,"Lee County, FL",26.663,-81.9535
+2104,US,"Manatee County, FL",27.4799,-82.3452
+2105,US,"Pinal County, AZ",32.8162,-111.2845
+2109,US,"Saratoga County, NY",43.0324,-73.936
+2111,US,"Washington, D.C.",38.9072,-77.0369
+2131,US,"Bennington County, VT",43.0279,-73.135
+2132,US,"Berkshire County, MA",42.3118,-73.1822
+2133,US,"Carver County, MN",44.8254,-93.7842
+2134,US,"Charleston County, SC",32.7957,-79.7848
+2135,US,"Charlotte County, FL",26.8946,-81.9098
+2137,US,"Cherokee County, GA",34.2515,-84.4803
+2138,US,"Clark County, WA",45.7466,-122.5194
+2139,US,"Collin County, TX",33.1795,-96.493
+2140,US,"Davidson County, TN",36.1343,-86.822
+2141,US,"Davis County, UT",40.9629,-112.0953
+2143,US,"Douglas County, OR",43.1261,-123.2492
+2144,US,"El Paso County, CO",38.9108,-104.4723
+2145,US,"Fairfield County, CT",41.256,-73.3709
+2147,US,"Fresno County, CA",36.9859,-119.2321
+2149,US,"Harford County, MD",39.5839,-76.3637
+2150,US,"Hudson County, NJ",40.7453,-74.0535
+2152,US,"Jefferson County, KY",38.1938,-85.6435
+2153,US,"Jefferson County, WA",47.7425,-123.304
+2154,US,"Jefferson Parish, LA",29.6499,-90.1121
+2155,US,"Johnson County, KS",38.8454,-94.8521
+2156,US,"Kittitas County, WA",47.175,-120.9319
+2157,US,"Klamath County, OR",42.6953,-121.6142
+2158,US,"Madera County, CA",37.2519,-119.6963
+2161,US,"Marion County, OR",44.8446,-122.5927
+2162,US,"Okaloosa County, FL",30.5773,-86.6611
+2163,US,"Plymouth County, MA",42.1615,-70.7928
+2164,US,"Polk County, GA",34.0132,-85.1479
+2166,US,"Riverside County, CA",33.9533,-117.3961
+2167,US,"Rockingham County, NH",42.9931,-71.0498
+2171,US,"Shasta County, CA",40.7909,-121.8474
+2172,US,"Shelby County, TN",35.1269,-89.9253
+2173,US,"Spartanburg County, SC",34.8606,-81.9535
+2174,US,"Spokane County, WA",47.6587,-117.4225
+2175,US,"St. Louis County, MO",38.6103,-90.4125
+2176,US,"Suffolk County, NY",40.9849,-72.6151
+2177,US,"Tulsa County, OK",36.1593,-95.941
+2178,US,"Ulster County, NY",41.8586,-74.3118
+2180,US,"Unknown Location, MA",42.4072,-71.3824
+2181,US,"Volusia County, FL",29.028,-81.0755
+2191,US,"Montgomery County, TX",30.3213,-95.4778
+2470,US,"Ashland, NE",,
+2476,US,"Travis, CA",,
+2487,US,"Lackland, TX",,
+2497,Lebanon,None,,
+3089,Dominica,,15.415,-61.371
+3092,Grenada,,12.1165,-61.679
+3094,Mozambique,,-18.6657,35.5296
+3099,Syria,,34.8021,38.9968
+3100,Timor-Leste,,-8.8742,125.7275
+3102,Uganda,,1.3733,32.2903
+3160,"Korea, South",,36.0,128.0
+3171,Cruise Ship,Diamond Princess,35.4437,139.638
+3181,United Kingdom,UK,55.3781,-3.436
+3186,China,Hebei,39.549,116.1306
+3203,China,Gansu,37.8099,101.0583
+3504,Austria,None,,
+3617,Iran (Islamic Republic of),,32.0,53.0
+3618,Republic of Korea,,36.0,128.0
+3661,Hong Kong SAR,Hong Kong,22.3,114.2
+3679,Taipei and environs,Taiwan,23.7,121.0
+3691,Viet Nam,,16.0,108.0
+3722,Macao SAR,Macau,22.1667,113.55
+3723,Russian Federation,,60.0,90.0
+3764,Republic of Moldova,,47.4116,28.3699
+3776,Saint Martin,,18.0708,-63.0501
+3787,Channel Islands,,49.3723,-2.3644
+3973,China,Henan,33.882,113.61399999999999
+3982,China,Heilongjiang,47.861999999999995,127.7615
+3984,China,Shanghai,31.201999999999998,121.4491
+3989,China,Yunnan,24.974,101.48700000000001
+4014,United Kingdom,Channel Islands,49.372284,-2.3643509999999996
+4057,United Kingdom,United Kingdom,55.3781,-3.4360000000000004
+4070,France,French Polynesia,-17.6797,149.4068
+4072,Cayman Islands,,19.3133,-81.2546
+4074,Czechia,,49.8175,15.472999999999999
+4094,Russia,,61.523999999999994,105.3188
+4125,Cameroon,,3.8480000000000003,11.5021
+4132,US,Grand Princess,37.64894,-122.665479
+4143,US,Alaska,61.370716,-152.404419
+4144,US,Arizona,33.729759,-111.431221
+4145,US,Arkansas,34.969704,-92.37312299999999
+4146,US,California,36.116203000000006,-119.681564
+4147,US,Colorado,39.059810999999996,-105.311104
+4148,US,Connecticut,41.597782,-72.755371
+4149,US,Delaware,39.318523,-75.507141
+4150,US,District of Columbia,38.897438,-77.02681700000001
+4151,US,Florida,27.766278999999997,-81.68678299999999
+4152,US,Georgia,33.040619,-83.643074
+4153,US,Hawaii,21.094317999999998,-157.49833700000002
+4154,US,Idaho,44.240459,-114.47882800000001
+4155,US,Illinois,40.349457,-88.986137
+4156,US,Indiana,39.849426,-86.258278
+4157,US,Iowa,42.011539,-93.210526
+4158,US,Kansas,38.5266,-96.726486
+4159,US,Kentucky,37.66814,-84.670067
+4160,US,Louisiana,31.169546,-91.867805
+4161,US,Maine,44.693946999999994,-69.381927
+4162,US,Maryland,39.063946,-76.80210100000001
+4163,US,Massachusetts,42.230171,-71.530106
+4164,US,Michigan,43.326617999999996,-84.53609499999999
+4165,US,Minnesota,45.694454,-93.900192
+4166,US,Mississippi,32.741646,-89.678696
+4167,US,Missouri,38.456084999999995,-92.288368
+4168,US,Montana,46.921925,-110.454353
+4169,US,Nebraska,41.125370000000004,-98.26808199999999
+4170,US,Nevada,38.313515,-117.055374
+4171,US,New Hampshire,43.452492,-71.563896
+4172,US,New Jersey,40.298904,-74.521011
+4173,US,New Mexico,34.840515,-106.24848200000001
+4174,US,New York,42.165726,-74.948051
+4175,US,North Carolina,35.630066,-79.80641899999999
+4176,US,North Dakota,47.528912,-99.784012
+4177,US,Ohio,40.388783000000004,-82.764915
+4178,US,Oklahoma,35.565342,-96.928917
+4179,US,Oregon,44.572021,-122.07093799999998
+4180,US,Pennsylvania,40.590752,-77.209755
+4181,US,Rhode Island,41.680893,-71.51178
+4182,US,South Carolina,33.856891999999995,-80.94500699999999
+4183,US,South Dakota,44.299782,-99.438828
+4184,US,Tennessee,35.747845,-86.69234499999999
+4185,US,Texas,31.054486999999998,-97.563461
+4186,US,Utah,40.150032,-111.86243400000001
+4187,US,Vermont,44.045876,-72.710686
+4188,US,Virginia,37.769337,-78.16996800000001
+4189,US,Washington,47.400902,-121.490494
+4190,US,West Virginia,38.491226,-80.954453
+4191,US,Wisconsin,44.268543,-89.616508
+4192,US,Wyoming,42.755966,-107.30248999999999
+4199,Guyana,,5.0,-58.75
+4558,Zimbabwe,,-20.0,30.0
+4714,Republic of Ireland,,53.1424,-7.6921
+4718,Ireland,,53.4167,-8.0
+4776,Canada,"Edmonton, Alberta",53.5461,-113.4938
+4880,US,"Unassigned Location, VT",44.3378,-72.7563
+5378,US,"Seattle, WA",47.6062,-122.3321
+5399,US,"Chicago, IL",41.8781,-87.6298
+5435,US,"Portland, OR",45.5051,-122.675
+5620,France,Fench Guiana,4.0,-53.0
+5664,Curacao,,12.1696,-68.99
+5677,Mauritania,,21.0079,10.9408
+5687,US,"Virgin Islands, U.S.",18.3358,-64.8963
+5803,US,Oregon,44.571999999999996,-122.0709
+5877,France,French Guiana,3.9339,-53.1258
+5884,Liechtenstein,,47.166000000000004,9.5554
+5902,Kosovo,,42.6026,20.903000000000002
+5918,Congo (Brazzaville),,-4.0383,21.7587
+5924,France,Mayotte,-12.8275,45.1662
+5943,US,North Dakota,47.5289,-99.78399999999999
+6403,Montenegro,,42.5,19.3
+6518,Australia,Western Australia,,
+6536,Ireland,,,
+6538,Luxembourg,,,
+6540,Monaco,,,
+6545,Qatar,,,
+6553,US,"Portland, OR",,
+6555,US,"Snohomish County, WA",,
+6793,Cuba,,22.0,-80.0
+7005,US,"Queens County, NY",40.7282,-73.7949
+7755,US,"Middlesex County, MA",41.912,-70.7168
+7760,US,"Santa Cruz County, CA",36.9741,-122.0308
