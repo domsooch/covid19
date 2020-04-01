@@ -34,19 +34,19 @@
 32,Burkina Faso,,Burkina Faso,12.2383,-1.5616
 33,Cambodia,,Cambodia,11.55,104.9167
 34,Cameroon,,Cameroon,3.848,11.5021
-35,Canada," Montreal, QC",Canada,45.5017,-73.5673
+35,Canada, Montreal,Canada,45.5017,-73.5673
 36,Canada,Alberta,Canada,53.9333,-116.5765
 37,Canada,British Columbia,Canada,49.2827,-123.1207
-38,Canada,"Calgary, Alberta",Canada,51.0447,-114.0719
-39,Canada,"Edmonton, Alberta",Canada,53.5461,-113.4938
+38,Canada,Calgary,Canada,51.0447,-114.0719
+39,Canada,Edmonton,Canada,53.5461,-113.4938
 40,Canada,Grand Princess,Canada,37.6489,-122.6655
-41,Canada,"London, ON",Canada,42.9849,-81.2453
+41,Canada,London,Canada,42.9849,-81.2453
 42,Canada,Manitoba,Canada,53.7609,-98.8139
 43,Canada,New Brunswick,Canada,46.5653,-66.4619
 44,Canada,Ontario,Canada,51.2538,-85.3232
 45,Canada,Quebec,Canada,52.9399,-73.5491
 46,Canada,Saskatchewan,Canada,52.9399,-106.4509
-47,Canada,"Toronto, ON",Canada,43.6532,-79.3832
+47,Canada,Toronto,Canada,43.6532,-79.3832
 48,Cayman Islands,,Cayman Islands,19.3133,-81.2546
 49,Channel Islands,,Channel Islands,49.3723,-2.3644
 50,Chile,,Chile,-35.6751,-71.543
@@ -264,197 +264,197 @@
 262,United Kingdom,UK,United Kingdom,55.3781,-3.436
 263,United Kingdom,United Kingdom,United Kingdom,55.3781,-3.436
 264,Uruguay,,Uruguay,-32.5228,-55.7658
-265,US," Norfolk County, MA",MA,42.1767,-71.1449
+265,US, Norfolk County,MA,42.1767,-71.1449
 266,US,Alabama,AL,32.3182,-86.9023
-267,US,"Alameda County, CA",CA,37.6017,-121.7195
+267,US,Alameda County,CA,37.6017,-121.7195
 268,US,Alaska,AK,61.3707,-152.4044
 269,US,Arizona,AZ,33.729759,-111.431221
 270,US,Arkansas,AK,34.9697,-92.3731
-271,US,"Ashland, NE",NE,41.0393,-96.3683
-272,US,"Bennington County, VT",VT,43.0279,-73.135
-273,US,"Bergen County, NJ",NJ,40.9263,-74.077
-274,US,"Berkeley, CA",CA,37.8715,-122.273
-275,US,"Berkshire County, MA",MA,42.3118,-73.1822
-276,US,"Boston, MA",MA,42.3601,-71.0589
-277,US,"Broward County, FL",FL,26.1901,-80.3659
+271,US,Ashland,NE,41.0393,-96.3683
+272,US,Bennington County,VT,43.0279,-73.135
+273,US,Bergen County,NJ,40.9263,-74.077
+274,US,Berkeley,CA,37.8715,-122.273
+275,US,Berkshire County,MA,42.3118,-73.1822
+276,US,Boston,MA,42.3601,-71.0589
+277,US,Broward County,FL,26.1901,-80.3659
 278,US,California,CA,36.1162,-119.6816
-279,US,"Carver County, MN",MN,44.8254,-93.7842
-280,US,"Charleston County, SC",SC,32.7957,-79.7848
-281,US,"Charlotte County, FL",FL,26.8946,-81.9098
-282,US,"Chatham County, NC",NC,35.7211,-79.1781
-283,US,"Cherokee County, GA",GA,34.2515,-84.4803
+279,US,Carver County,MN,44.8254,-93.7842
+280,US,Charleston County,SC,32.7957,-79.7848
+281,US,Charlotte County,FL,26.8946,-81.9098
+282,US,Chatham County,NC,35.7211,-79.1781
+283,US,Cherokee County,GA,34.2515,-84.4803
 284,US,Chicago,IL,41.8781,-87.6298
-285,US,"Chicago, IL",IL,41.8781,-87.6298
-286,US,"Clark County, NV",NV,36.0796,-115.094
-287,US,"Clark County, WA",WA,45.7466,-122.5194
-288,US,"Cobb County, GA",GA,33.8999,-84.5641
-289,US,"Collin County, TX",TX,33.1795,-96.493
+285,US,Chicago,IL,41.8781,-87.6298
+286,US,Clark County,NV,36.0796,-115.094
+287,US,Clark County,WA,45.7466,-122.5194
+288,US,Cobb County,GA,33.8999,-84.5641
+289,US,Collin County,TX,33.1795,-96.493
 290,US,Colorado,CO,39.0598,-105.3111
 291,US,Connecticut,CN,41.597782,-72.755371
-292,US,"Contra Costa County, CA",CA,37.8534,-121.9018
-293,US,"Cook County, IL",IL,41.7377,-87.6976
-294,US,"Davidson County, TN",TN,36.1343,-86.822
-295,US,"Davis County, UT",UT,40.9629,-112.0953
+292,US,Contra Costa County,CA,37.8534,-121.9018
+293,US,Cook County,IL,41.7377,-87.6976
+294,US,Davidson County,TN,36.1343,-86.822
+295,US,Davis County,UT,40.9629,-112.0953
 296,US,Delaware,DE,39.3185,-75.5071
-297,US,"Delaware County, PA",PA,39.9078,-75.3879
-298,US,"Denver County, CO",CO,39.7392,-104.9903
+297,US,Delaware County,PA,39.9078,-75.3879
+298,US,Denver County,CO,39.7392,-104.9903
 299,US,Diamond Princess,CruiseShip,35.4437,139.638
 300,US,District of Columbia,DC,38.8974,-77.0268
-301,US,"Douglas County, CO",CA,39.2587,-104.9389
-302,US,"Douglas County, NE",NA,41.3148,-96.1951
-303,US,"Douglas County, OR",OR,43.1261,-123.2492
-304,US,"El Paso County, CO",CO,38.9108,-104.4723
-305,US,"Fairfax County, VA",VA,38.9085,-77.2405
-306,US,"Fairfield County, CT",CT,41.256,-73.3709
-307,US,"Fayette County, KY",KY,38.0606,-84.4803
+301,US,Douglas County,CA,39.2587,-104.9389
+302,US,Douglas County,NA,41.3148,-96.1951
+303,US,Douglas County,OR,43.1261,-123.2492
+304,US,El Paso County,CO,38.9108,-104.4723
+305,US,Fairfax County,VA,38.9085,-77.2405
+306,US,Fairfield County,CT,41.256,-73.3709
+307,US,Fayette County,KY,38.0606,-84.4803
 308,US,Florida,FL,27.766279,-81.686783
-309,US,"Floyd County, GA",GA,34.2829,-85.2308
-310,US,"Fort Bend County, TX",TX,29.5693,-95.8143
-311,US,"Fresno County, CA",CA,36.9859,-119.2321
-312,US,"Fulton County, GA",GA,33.8034,-84.3963
+309,US,Floyd County,GA,34.2829,-85.2308
+310,US,Fort Bend County,TX,29.5693,-95.8143
+311,US,Fresno County,CA,36.9859,-119.2321
+312,US,Fulton County,GA,33.8034,-84.3963
 313,US,Georgia,GA,33.0406,-83.6431
-314,US,"Grafton County, NH",NH,43.9088,-71.826
+314,US,Grafton County,NH,43.9088,-71.826
 315,US,Grand Princess,CruiseShip,37.6489,-122.6655
 316,US,Grand Princess Cruise Ship,CruiseShip,37.6489,-122.6655
-317,US,"Grant County, WA",WA,47.1981,-119.3732
-318,US,"Harford County, MD",MD,39.5839,-76.3637
-319,US,"Harris County, TX",TX,29.7752,-95.3103
-320,US,"Harrison County, KY",KY,38.4333,-84.3542
+317,US,Grant County,WA,47.1981,-119.3732
+318,US,Harford County,MD,39.5839,-76.3637
+319,US,Harris County,TX,29.7752,-95.3103
+320,US,Harrison County,KY,38.4333,-84.3542
 321,US,Hawaii,HI,21.0943,-157.4983
-322,US,"Hendricks County, IN",IN,39.8065,-86.5401
-323,US,"Hillsborough, FL",FL,27.9904,-82.3018
-324,US,"Honolulu County, HI",HI,21.307,-157.8584
-325,US,"Hudson County, NJ",NJ,40.7453,-74.0535
-326,US,"Humboldt County, CA",CA,40.745,-123.8695
+322,US,Hendricks County,IN,39.8065,-86.5401
+323,US,Hillsborough,FL,27.9904,-82.3018
+324,US,Honolulu County,HI,21.307,-157.8584
+325,US,Hudson County,NJ,40.7453,-74.0535
+326,US,Humboldt County,CA,40.745,-123.8695
 327,US,Idaho,ID,44.240459,-114.478828
 328,US,Illinois,IL,40.349457,-88.986137
 329,US,Indiana,IN,39.8494,-86.2583
 330,US,Iowa,IA,42.0115,-93.2105
-331,US,"Jackson County, OR ",OR,42.3345,-122.7647
-332,US,"Jefferson County, KY",KY,38.1938,-85.6435
-333,US,"Jefferson County, WA",WA,47.7425,-123.304
-334,US,"Jefferson Parish, LA",LA,29.6499,-90.1121
-335,US,"Johnson County, IA",IA,41.6699,-91.5984
-336,US,"Johnson County, KS",KS,38.8454,-94.8521
+331,US,Jackson County,OR,42.3345,-122.7647
+332,US,Jefferson County,KY,38.1938,-85.6435
+333,US,Jefferson County,WA,47.7425,-123.304
+334,US,Jefferson Parish,LA,29.6499,-90.1121
+335,US,Johnson County,IA,41.6699,-91.5984
+336,US,Johnson County,KS,38.8454,-94.8521
 337,US,Kansas,KS,38.5266,-96.7265
 338,US,Kentucky,KY,37.6681,-84.6701
-339,US,"Kershaw County, SC",SC,34.3672,-80.5883
-340,US,"King County, WA",WA,47.548,-121.9836
-341,US,"Kittitas County, WA",WA,47.175,-120.9319
-342,US,"Klamath County, OR",OR,42.6953,-121.6142
-343,US,"Lackland, TX",TX,29.3878,-98.6205
-344,US,"Lackland, TX (From Diamond Princess)",TX,29.3878,-98.6205
-345,US,"Lee County, FL",FL,26.663,-81.9535
-346,US,"Los Angeles, CA",,34.0522,-118.2437
+339,US,Kershaw County,SC,34.3672,-80.5883
+340,US,King County,WA,47.548,-121.9836
+341,US,Kittitas County,WA,47.175,-120.9319
+342,US,Klamath County,OR,42.6953,-121.6142
+343,US,Lackland,TX,29.3878,-98.6205
+344,US,Lackland,TX,29.3878,-98.6205
+345,US,Lee County,FL,26.663,-81.9535
+346,US,Los Angeles,,34.0522,-118.2437
 347,US,Louisiana,LA,31.1695,-91.8678
-348,US,"Madera County, CA",CA,37.2519,-119.6963
-349,US,"Madison, WI",WI,43.0731,-89.4012
+348,US,Madera County,CA,37.2519,-119.6963
+349,US,Madison,WI,43.0731,-89.4012
 350,US,Maine,ME,44.6939,-69.3819
-351,US,"Manatee County, FL",FL,27.4799,-82.3452
-352,US,"Maricopa County, AZ",AZ,33.2918,-112.4291
-353,US,"Marion County, IN",IN,39.8362,-86.1752
-354,US,"Marion County, OR",OR,44.8446,-122.5927
+351,US,Manatee County,FL,27.4799,-82.3452
+352,US,Maricopa County,AZ,33.2918,-112.4291
+353,US,Marion County,IN,39.8362,-86.1752
+354,US,Marion County,OR,44.8446,-122.5927
 355,US,Maryland,MD,39.0639,-76.8021
 356,US,Massachusetts,MA,42.230171,-71.530106
 357,US,Michigan,MI,43.3266,-84.5361
-358,US,"Middlesex County, MA",MA,41.912,-70.7168
+358,US,Middlesex County,MA,41.912,-70.7168
 359,US,Minnesota,MN,45.694454,-93.900192
 360,US,Mississippi,MS,32.7416,-89.6787
 361,US,Missouri,MO,38.456085,-92.288368
 362,US,Montana,MT,46.9219,-110.4544
-363,US,"Montgomery County, MD",MD,39.1547,-77.2405
-364,US,"Montgomery County, PA",PA,40.229,-75.3879
-365,US,"Montgomery County, TX",TX,30.3213,-95.4778
-366,US,"Nassau County, NY",NY,40.6546,-73.5594
+363,US,Montgomery County,MD,39.1547,-77.2405
+364,US,Montgomery County,PA,40.229,-75.3879
+365,US,Montgomery County,TX,30.3213,-95.4778
+366,US,Nassau County,NY,40.6546,-73.5594
 367,US,Nebraska,NE,41.12537,-98.268082
 368,US,Nevada,NV,38.3135,-117.0554
 369,US,New Hampshire,NH,43.452492,-71.563896
 370,US,New Jersey,NJ,40.2989,-74.521
 371,US,New Mexico,NM,34.8405,-106.2485
 372,US,New York,NY,42.1657,-74.9481
-373,US,"New York City, NY",NY,40.7128,-74.006
-374,US,"New York County, NY",NY,40.7128,-74.006
-375,US,"Norfolk County, MA",MA,42.1767,-71.1449
+373,US,New York City,NY,40.7128,-74.006
+374,US,New York County,NY,40.7128,-74.006
+375,US,Norfolk County,MA,42.1767,-71.1449
 376,US,North Carolina,NC,35.630066,-79.806419
 377,US,North Dakota,ND,47.5289,-99.784
-378,US,"Norwell County, MA",MA,42.1615,-70.7928
+378,US,Norwell County,MA,42.1615,-70.7928
 379,US,Ohio,OH,40.388783,-82.764915
-380,US,"Okaloosa County, FL",FL,30.5773,-86.6611
+380,US,Okaloosa County,FL,30.5773,-86.6611
 381,US,Oklahoma,OK,35.5653,-96.9289
-382,US,"Omaha, NE (From Diamond Princess)",NE,41.2545,-95.9758
-383,US,"Orange County, CA",CA,33.7879,-117.8531
-384,US,"Orange, CA",CA,33.7879,-117.8531
+382,US,Omaha,NE,41.2545,-95.9758
+383,US,Orange County,CA,33.7879,-117.8531
+384,US,Orange,CA,33.7879,-117.8531
 385,US,Oregon,OR,44.572,-122.0709
 386,US,Pennsylvania,PA,40.590752,-77.209755
-387,US,"Pierce County, WA",WA,47.0676,-122.1295
-388,US,"Pinal County, AZ",AZ,32.8162,-111.2845
-389,US,"Placer County, CA",CA,39.0916,-120.8039
-390,US,"Plymouth County, MA",MA,42.1615,-70.7928
-391,US,"Polk County, GA",GA,34.0132,-85.1479
-392,US,"Portland, OR",OR,45.5051,-122.675
-393,US,"Providence County, RI",RI,41.8882,-71.4774
-394,US,"Providence, RI",RI,41.824,-71.4128
+387,US,Pierce County,WA,47.0676,-122.1295
+388,US,Pinal County,AZ,32.8162,-111.2845
+389,US,Placer County,CA,39.0916,-120.8039
+390,US,Plymouth County,MA,42.1615,-70.7928
+391,US,Polk County,GA,34.0132,-85.1479
+392,US,Portland,OR,45.5051,-122.675
+393,US,Providence County,RI,41.8882,-71.4774
+394,US,Providence,RI,41.824,-71.4128
 395,US,Puerto Rico,PR,18.2208,-66.5901
-396,US,"Queens County, NY",NY,40.7282,-73.7949
-397,US,"Ramsey County, MN",MN,44.9964,-93.0616
+396,US,Queens County,NY,40.7282,-73.7949
+397,US,Ramsey County,MN,44.9964,-93.0616
 398,US,Rhode Island,RI,41.680893,-71.51178
-399,US,"Riverside County, CA",CA,33.9533,-117.3961
-400,US,"Rockingham County, NH",NH,42.9931,-71.0498
-401,US,"Rockland County, NY",NY,41.1489,-73.983
-402,US,"Sacramento County, CA",CA,38.4747,-121.3542
-403,US,"San Antonio, TX",TX,29.4241,-98.4936
-404,US,"San Benito, CA",CA,36.5761,-120.9876
-405,US,"San Diego County, CA",CA,32.7157,-117.1611
-406,US,"San Francisco County, CA",CA,37.7749,-122.4194
-407,US,"San Mateo, CA",CA,37.563,-122.3255
-408,US,"Santa Clara County, CA",CA,37.3541,-121.9552
-409,US,"Santa Clara, CA",CA,37.3541,-121.9552
-410,US,"Santa Cruz County, CA",CA,36.9741,-122.0308
-411,US,"Santa Rosa County, FL",FL,30.769,-86.9824
-412,US,"Sarasota, FL",FL,27.3364,-82.5307
-413,US,"Saratoga County, NY",NY,43.0324,-73.936
-414,US,"Seattle, WA",WA,47.6062,-122.3321
-415,US,"Shasta County, CA",CA,40.7909,-121.8474
-416,US,"Shelby County, TN",TN,35.1269,-89.9253
-417,US,"Snohomish County, WA",WA,48.033,-121.8339
-418,US,"Sonoma County, CA",CA,38.578,-122.9888
+399,US,Riverside County,CA,33.9533,-117.3961
+400,US,Rockingham County,NH,42.9931,-71.0498
+401,US,Rockland County,NY,41.1489,-73.983
+402,US,Sacramento County,CA,38.4747,-121.3542
+403,US,San Antonio,TX,29.4241,-98.4936
+404,US,San Benito,CA,36.5761,-120.9876
+405,US,San Diego County,CA,32.7157,-117.1611
+406,US,San Francisco County,CA,37.7749,-122.4194
+407,US,San Mateo,CA,37.563,-122.3255
+408,US,Santa Clara County,CA,37.3541,-121.9552
+409,US,Santa Clara,CA,37.3541,-121.9552
+410,US,Santa Cruz County,CA,36.9741,-122.0308
+411,US,Santa Rosa County,FL,30.769,-86.9824
+412,US,Sarasota,FL,27.3364,-82.5307
+413,US,Saratoga County,NY,43.0324,-73.936
+414,US,Seattle,WA,47.6062,-122.3321
+415,US,Shasta County,CA,40.7909,-121.8474
+416,US,Shelby County,TN,35.1269,-89.9253
+417,US,Snohomish County,WA,48.033,-121.8339
+418,US,Sonoma County,CA,38.578,-122.9888
 419,US,South Carolina,SC,33.856892,-80.945007
 420,US,South Dakota,SD,44.299782,-99.438828
-421,US,"Spartanburg County, SC",SC,34.8606,-81.9535
-422,US,"Spokane County, WA",WA,47.6587,-117.4225
-423,US,"St. Louis County, MO",MO,38.6103,-90.4125
-424,US,"Suffolk County, MA",MA,42.3601,-71.0589
-425,US,"Suffolk County, NY",NY,40.9849,-72.6151
-426,US,"Summit County, CO",CO,39.5912,-106.064
-427,US,"Tempe, AZ",AZ,33.4255,-111.94
+421,US,Spartanburg County,SC,34.8606,-81.9535
+422,US,Spokane County,WA,47.6587,-117.4225
+423,US,St. Louis County,MO,38.6103,-90.4125
+424,US,Suffolk County,MA,42.3601,-71.0589
+425,US,Suffolk County,NY,40.9849,-72.6151
+426,US,Summit County,CO,39.5912,-106.064
+427,US,Tempe,AZ,33.4255,-111.94
 428,US,Tennessee,TN,35.7478,-86.6923
 429,US,Texas,TX,31.054487,-97.563461
-430,US,"Travis, CA",CA,38.2721,-121.9399
-431,US,"Travis, CA (From Diamond Princess)",CA,38.2721,-121.9399
-432,US,"Tulsa County, OK",OK,36.1593,-95.941
-433,US,"Ulster County, NY",NY,41.8586,-74.3118
-434,US,"Umatilla, OR",OR,45.775,-118.7606
+430,US,Travis,CA,38.2721,-121.9399
+431,US,Travis,CA,38.2721,-121.9399
+432,US,Tulsa County,OK,36.1593,-95.941
+433,US,Ulster County,NY,41.8586,-74.3118
+434,US,Umatilla,OR,45.775,-118.7606
 435,US,Unassigned Location (From Diamond Princess),CruiseShip,35.4437,139.638
-436,US,"Unassigned Location, VT",VT,44.3378,-72.7563
-437,US,"Unassigned Location, WA",WA,47.7511,-120.7401
-438,US,"Unknown Location, MA",MA,42.4072,-71.3824
+436,US,Unassigned Location,VT,44.3378,-72.7563
+437,US,Unassigned Location,WA,47.7511,-120.7401
+438,US,Unknown Location,MA,42.4072,-71.3824
 439,US,Utah,UT,40.15,-111.8624
 440,US,Vermont,VT,44.045876,-72.710686
-441,US,"Virgin Islands, U.S.",Visl,18.3358,-64.8963
+441,US,Virgin Islands,Visl,18.3358,-64.8963
 442,US,Virginia,VA,37.7693,-78.17
-443,US,"Volusia County, FL",FL,29.028,-81.0755
-444,US,"Wake County, NC",NC,35.8032,-78.5661
+443,US,Volusia County,FL,29.028,-81.0755
+444,US,Wake County,NC,35.8032,-78.5661
 445,US,Washington,WA,47.4009,-121.4905
-446,US,"Washington County, OR",OR,45.547,-123.1386
-447,US,"Washington, D.C.",DC,38.9072,-77.0369
-448,US,"Washoe County, NV",NV,40.5608,-119.6035
-449,US,"Wayne County, PA",PA,41.6739,-75.2479
+446,US,Washington County,OR,45.547,-123.1386
+447,US,Washington,DC,38.9072,-77.0369
+448,US,Washoe County,NV,40.5608,-119.6035
+449,US,Wayne County,PA,41.6739,-75.2479
 450,US,West Virginia,WV,38.4912,-80.9545
-451,US,"Westchester County, NY",NY,41.122,-73.7949
-452,US,"Williamson County, TN",TN,35.9179,-86.8622
+451,US,Westchester County,NY,41.122,-73.7949
+452,US,Williamson County,TN,35.9179,-86.8622
 453,US,Wisconsin,WI,44.2685,-89.6165
 454,US,Wyoming,WY,42.755966,-107.30249
-455,US,"Yolo County, CA",CA,38.7646,-121.9018
+455,US,Yolo County,CA,38.7646,-121.9018
 456,US,Guam,GU,13.4443,144.7937
 457,US,Virgin Islands,VI,18.3358,-64.8963
 458,US,US,US,37.0902,-95.7129
@@ -463,3 +463,260 @@
 461,Venezuela,,Venezuela,6.4238,-66.5897
 462,Viet Nam,,Viet Nam,16,108
 463,Vietnam,,Vietnam,14.0583,108.2772
+464,US," Norfolk County, MA",MA,42.1767,-71.1449
+465,US,Alabama,AL,32.3182,-86.9023
+466,US,"Alameda County, CA",CA,37.6017,-121.7195
+467,US,Alaska,AK,61.3707,-152.4044
+468,US,Arizona,AZ,33.729759,-111.431221
+469,US,Arkansas,AK,34.9697,-92.3731
+470,US,"Ashland, NE",NE,41.0393,-96.3683
+471,US,"Bennington County, VT",VT,43.0279,-73.135
+472,US,"Bergen County, NJ",NJ,40.9263,-74.077
+473,US,"Berkeley, CA",CA,37.8715,-122.273
+474,US,"Berkshire County, MA",MA,42.3118,-73.1822
+475,US,"Boston, MA",MA,42.3601,-71.0589
+476,US,"Broward County, FL",FL,26.1901,-80.3659
+477,US,California,CA,36.1162,-119.6816
+478,US,"Carver County, MN",MN,44.8254,-93.7842
+479,US,"Charleston County, SC",SC,32.7957,-79.7848
+480,US,"Charlotte County, FL",FL,26.8946,-81.9098
+481,US,"Chatham County, NC",NC,35.7211,-79.1781
+482,US,"Cherokee County, GA",GA,34.2515,-84.4803
+483,US,Chicago,IL,41.8781,-87.6298
+484,US,"Chicago, IL",IL,41.8781,-87.6298
+485,US,"Clark County, NV",NV,36.0796,-115.094
+486,US,"Clark County, WA",WA,45.7466,-122.5194
+487,US,"Cobb County, GA",GA,33.8999,-84.5641
+488,US,"Collin County, TX",TX,33.1795,-96.493
+489,US,Colorado,CO,39.0598,-105.3111
+490,US,Connecticut,CN,41.597782,-72.755371
+491,US,"Contra Costa County, CA",CA,37.8534,-121.9018
+492,US,"Cook County, IL",IL,41.7377,-87.6976
+493,US,"Davidson County, TN",TN,36.1343,-86.822
+494,US,"Davis County, UT",UT,40.9629,-112.0953
+495,US,Delaware,DE,39.3185,-75.5071
+496,US,"Delaware County, PA",PA,39.9078,-75.3879
+497,US,"Denver County, CO",CO,39.7392,-104.9903
+498,US,Diamond Princess,CruiseShip,35.4437,139.638
+499,US,District of Columbia,DC,38.8974,-77.0268
+500,US,"Douglas County, CO",CA,39.2587,-104.9389
+501,US,"Douglas County, NE",NA,41.3148,-96.1951
+502,US,"Douglas County, OR",OR,43.1261,-123.2492
+503,US,"El Paso County, CO",CO,38.9108,-104.4723
+504,US,"Fairfax County, VA",VA,38.9085,-77.2405
+505,US,"Fairfield County, CT",CT,41.256,-73.3709
+506,US,"Fayette County, KY",KY,38.0606,-84.4803
+507,US,Florida,FL,27.766279,-81.686783
+508,US,"Floyd County, GA",GA,34.2829,-85.2308
+509,US,"Fort Bend County, TX",TX,29.5693,-95.8143
+510,US,"Fresno County, CA",CA,36.9859,-119.2321
+511,US,"Fulton County, GA",GA,33.8034,-84.3963
+512,US,Georgia,GA,33.0406,-83.6431
+513,US,"Grafton County, NH",NH,43.9088,-71.826
+514,US,Grand Princess,CruiseShip,37.6489,-122.6655
+515,US,Grand Princess Cruise Ship,CruiseShip,37.6489,-122.6655
+516,US,"Grant County, WA",WA,47.1981,-119.3732
+517,US,"Harford County, MD",MD,39.5839,-76.3637
+518,US,"Harris County, TX",TX,29.7752,-95.3103
+519,US,"Harrison County, KY",KY,38.4333,-84.3542
+520,US,Hawaii,HI,21.0943,-157.4983
+521,US,"Hendricks County, IN",IN,39.8065,-86.5401
+522,US,"Hillsborough, FL",FL,27.9904,-82.3018
+523,US,"Honolulu County, HI",HI,21.307,-157.8584
+524,US,"Hudson County, NJ",NJ,40.7453,-74.0535
+525,US,"Humboldt County, CA",CA,40.745,-123.8695
+526,US,Idaho,ID,44.240459,-114.478828
+527,US,Illinois,IL,40.349457,-88.986137
+528,US,Indiana,IN,39.8494,-86.2583
+529,US,Iowa,IA,42.0115,-93.2105
+530,US,"Jackson County, OR ",OR,42.3345,-122.7647
+531,US,"Jefferson County, KY",KY,38.1938,-85.6435
+532,US,"Jefferson County, WA",WA,47.7425,-123.304
+533,US,"Jefferson Parish, LA",LA,29.6499,-90.1121
+534,US,"Johnson County, IA",IA,41.6699,-91.5984
+535,US,"Johnson County, KS",KS,38.8454,-94.8521
+536,US,Kansas,KS,38.5266,-96.7265
+537,US,Kentucky,KY,37.6681,-84.6701
+538,US,"Kershaw County, SC",SC,34.3672,-80.5883
+539,US,"King County, WA",WA,47.548,-121.9836
+540,US,"Kittitas County, WA",WA,47.175,-120.9319
+541,US,"Klamath County, OR",OR,42.6953,-121.6142
+542,US,"Lackland, TX",TX,29.3878,-98.6205
+543,US,"Lackland, TX (From Diamond Princess)",TX,29.3878,-98.6205
+544,US,"Lee County, FL",FL,26.663,-81.9535
+545,US,"Los Angeles, CA",,34.0522,-118.2437
+546,US,Louisiana,LA,31.1695,-91.8678
+547,US,"Madera County, CA",CA,37.2519,-119.6963
+548,US,"Madison, WI",WI,43.0731,-89.4012
+549,US,Maine,ME,44.6939,-69.3819
+550,US,"Manatee County, FL",FL,27.4799,-82.3452
+551,US,"Maricopa County, AZ",AZ,33.2918,-112.4291
+552,US,"Marion County, IN",IN,39.8362,-86.1752
+553,US,"Marion County, OR",OR,44.8446,-122.5927
+554,US,Maryland,MD,39.0639,-76.8021
+555,US,Massachusetts,MA,42.230171,-71.530106
+556,US,Michigan,MI,43.3266,-84.5361
+557,US,"Middlesex County, MA",MA,41.912,-70.7168
+558,US,Minnesota,MN,45.694454,-93.900192
+559,US,Mississippi,MS,32.7416,-89.6787
+560,US,Missouri,MO,38.456085,-92.288368
+561,US,Montana,MT,46.9219,-110.4544
+562,US,"Montgomery County, MD",MD,39.1547,-77.2405
+563,US,"Montgomery County, PA",PA,40.229,-75.3879
+564,US,"Montgomery County, TX",TX,30.3213,-95.4778
+565,US,"Nassau County, NY",NY,40.6546,-73.5594
+566,US,Nebraska,NE,41.12537,-98.268082
+567,US,Nevada,NV,38.3135,-117.0554
+568,US,New Hampshire,NH,43.452492,-71.563896
+569,US,New Jersey,NJ,40.2989,-74.521
+570,US,New Mexico,NM,34.8405,-106.2485
+571,US,New York,NY,42.1657,-74.9481
+572,US,"New York City, NY",NY,40.7128,-74.006
+573,US,"New York County, NY",NY,40.7128,-74.006
+574,US,"Norfolk County, MA",MA,42.1767,-71.1449
+575,US,North Carolina,NC,35.630066,-79.806419
+576,US,North Dakota,ND,47.5289,-99.784
+577,US,"Norwell County, MA",MA,42.1615,-70.7928
+578,US,Ohio,OH,40.388783,-82.764915
+579,US,"Okaloosa County, FL",FL,30.5773,-86.6611
+580,US,Oklahoma,OK,35.5653,-96.9289
+581,US,"Omaha, NE (From Diamond Princess)",NE,41.2545,-95.9758
+582,US,"Orange County, CA",CA,33.7879,-117.8531
+583,US,"Orange, CA",CA,33.7879,-117.8531
+584,US,Oregon,OR,44.572,-122.0709
+585,US,Pennsylvania,PA,40.590752,-77.209755
+586,US,"Pierce County, WA",WA,47.0676,-122.1295
+587,US,"Pinal County, AZ",AZ,32.8162,-111.2845
+588,US,"Placer County, CA",CA,39.0916,-120.8039
+589,US,"Plymouth County, MA",MA,42.1615,-70.7928
+590,US,"Polk County, GA",GA,34.0132,-85.1479
+591,US,"Portland, OR",OR,45.5051,-122.675
+592,US,"Providence County, RI",RI,41.8882,-71.4774
+593,US,"Providence, RI",RI,41.824,-71.4128
+594,US,Puerto Rico,PR,18.2208,-66.5901
+595,US,"Queens County, NY",NY,40.7282,-73.7949
+596,US,"Ramsey County, MN",MN,44.9964,-93.0616
+597,US,Rhode Island,RI,41.680893,-71.51178
+598,US,"Riverside County, CA",CA,33.9533,-117.3961
+599,US,"Rockingham County, NH",NH,42.9931,-71.0498
+600,US,"Rockland County, NY",NY,41.1489,-73.983
+601,US,"Sacramento County, CA",CA,38.4747,-121.3542
+602,US,"San Antonio, TX",TX,29.4241,-98.4936
+603,US,"San Benito, CA",CA,36.5761,-120.9876
+604,US,"San Diego County, CA",CA,32.7157,-117.1611
+605,US,"San Francisco County, CA",CA,37.7749,-122.4194
+606,US,"San Mateo, CA",CA,37.563,-122.3255
+607,US,"Santa Clara County, CA",CA,37.3541,-121.9552
+608,US,"Santa Clara, CA",CA,37.3541,-121.9552
+609,US,"Santa Cruz County, CA",CA,36.9741,-122.0308
+610,US,"Santa Rosa County, FL",FL,30.769,-86.9824
+611,US,"Sarasota, FL",FL,27.3364,-82.5307
+612,US,"Saratoga County, NY",NY,43.0324,-73.936
+613,US,"Seattle, WA",WA,47.6062,-122.3321
+614,US,"Shasta County, CA",CA,40.7909,-121.8474
+615,US,"Shelby County, TN",TN,35.1269,-89.9253
+616,US,"Snohomish County, WA",WA,48.033,-121.8339
+617,US,"Sonoma County, CA",CA,38.578,-122.9888
+618,US,South Carolina,SC,33.856892,-80.945007
+619,US,South Dakota,SD,44.299782,-99.438828
+620,US,"Spartanburg County, SC",SC,34.8606,-81.9535
+621,US,"Spokane County, WA",WA,47.6587,-117.4225
+622,US,"St. Louis County, MO",MO,38.6103,-90.4125
+623,US,"Suffolk County, MA",MA,42.3601,-71.0589
+624,US,"Suffolk County, NY",NY,40.9849,-72.6151
+625,US,"Summit County, CO",CO,39.5912,-106.064
+626,US,"Tempe, AZ",AZ,33.4255,-111.94
+627,US,Tennessee,TN,35.7478,-86.6923
+628,US,Texas,TX,31.054487,-97.563461
+629,US,"Travis, CA",CA,38.2721,-121.9399
+630,US,"Travis, CA (From Diamond Princess)",CA,38.2721,-121.9399
+631,US,"Tulsa County, OK",OK,36.1593,-95.941
+632,US,"Ulster County, NY",NY,41.8586,-74.3118
+633,US,"Umatilla, OR",OR,45.775,-118.7606
+634,US,Unassigned Location (From Diamond Princess),CruiseShip,35.4437,139.638
+635,US,"Unassigned Location, VT",VT,44.3378,-72.7563
+636,US,"Unassigned Location, WA",WA,47.7511,-120.7401
+637,US,"Unknown Location, MA",MA,42.4072,-71.3824
+638,US,Utah,UT,40.15,-111.8624
+639,US,Vermont,VT,44.045876,-72.710686
+640,US,"Virgin Islands, U.S.",Visl,18.3358,-64.8963
+641,US,Virginia,VA,37.7693,-78.17
+642,US,"Volusia County, FL",FL,29.028,-81.0755
+643,US,"Wake County, NC",NC,35.8032,-78.5661
+644,US,Washington,WA,47.4009,-121.4905
+645,US,"Washington County, OR",OR,45.547,-123.1386
+646,US,"Washington, D.C.",DC,38.9072,-77.0369
+647,US,"Washoe County, NV",NV,40.5608,-119.6035
+648,US,"Wayne County, PA",PA,41.6739,-75.2479
+649,US,West Virginia,WV,38.4912,-80.9545
+650,US,"Westchester County, NY",NY,41.122,-73.7949
+651,US,"Williamson County, TN",TN,35.9179,-86.8622
+652,US,Wisconsin,WI,44.2685,-89.6165
+653,US,Wyoming,WY,42.755966,-107.30249
+654,US,"Yolo County, CA",CA,38.7646,-121.9018
+655,US,Guam,GU,13.4443,144.7937
+656,US,Virgin Islands,VI,18.3358,-64.8963
+657,US,US,US,37.0902,-95.7129
+658,US,United States Virgin Islands,VI,18.35,-64.933
+659,US,Guam,GU,,
+660,US,United States Virgin Islands,VI,,
+661,US,Virgin Islands,VI,,
+662,US,US,US,,
+663,US,New York,NY,,
+664,US,Washington,WA,,
+665,US,New Jersey,NJ,,
+666,US,California,CA,,
+667,US,Illinois,IL,,
+668,US,Michigan,MI,,
+669,US,Florida,FL,,
+670,US,Louisiana,LA,,
+671,US,Massachusetts,MA,,
+672,US,Texas,TX,,
+673,US,Georgia,GA,,
+674,US,Colorado,CO,,
+675,US,Pennsylvania,PA,,
+676,US,Tennessee,TN,,
+677,US,Wisconsin,WI,,
+678,US,Ohio,OH,,
+679,US,Connecticut,CN,,
+680,US,North Carolina,NC,,
+681,US,Maryland,MD,,
+682,US,Virginia,VA,,
+683,US,Mississippi,MS,,
+684,US,Indiana,IN,,
+685,US,South Carolina,SC,,
+686,US,Nevada,NV,,
+687,US,Utah,UT,,
+688,US,Minnesota,MN,,
+689,US,Arkansas,AK,,
+690,US,Oregon,OR,,
+691,US,Alabama,AL,,
+692,US,Arizona,AZ,,
+693,US,Kentucky,KY,,
+694,US,Missouri,MO,,
+695,US,Iowa,IA,,
+696,US,Maine,ME,,
+697,US,Rhode Island,RI,,
+698,US,New Hampshire,NH,,
+699,US,Oklahoma,OK,,
+700,US,Kansas,KS,,
+701,US,New Mexico,NM,,
+702,US,Hawaii,HI,,
+703,US,Delaware,DE,,
+704,US,Vermont,VT,,
+705,US,Nebraska,NB,,
+706,US,Diamond Princess,US,,
+707,US,Idaho,ID,,
+708,US,Montana,MT,,
+709,US,Grand Princess,US,,
+710,US,North Dakota,ND,,
+711,US,Wyoming,WY,,
+712,US,Puerto Rico,PR,,
+713,US,South Dakota,SD,,
+714,US,Alaska,AK,,
+715,US,West Virginia,WV,,
+716,US,Wuhan Evacuee,US,,
+717,US,District of Columbia,DC,,
+718,US,American Samoa,SAM,,
+719,US,Northern Mariana Islands,MAR,,
+720,US,Recovered,Rcvred,,
