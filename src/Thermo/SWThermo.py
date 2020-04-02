@@ -9,7 +9,7 @@ sys.path.append('../')
 sys.path.append('./')
 #from string import maketrans
 from . import TwodArray as TD
-import MolBio as MB
+from . import MolBio as MB
 Verbose = None
 reload(TD)
 #For antisense

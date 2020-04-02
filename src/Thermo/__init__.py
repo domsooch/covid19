@@ -1,1 +1,1 @@
-__all__ = ['thermoData']
+__all__ = ['SWThermo', 'MolBio']
