@@ -15,6 +15,9 @@ This one has all the available PCR primers used throughout the world. It runs th
 
 It's designed to tell you if a given country's assay can detect all the novel sequences that are emerging in the population. See https://nextstrain.org/ncov to see how these are spreading across the globe.
 
-
 The code is a little rough, sorry about that.
+
+DUE TO THIS PANDEMIC I HAVE MADE ALL THIS CODE, EVEN THE UNIMPLEMENTED STUFF FREELY AVAILABLE BECAUSE MAYBE EVEN IN ITS UNFINISHED FORM, IT MIGHT BE USEFUL TO OTHER GROUPS, SO IN THE HIGHLY UNLIKLEY EVENT, THAT YOU FIND THIS REPO USEFULL, PLEASE GIVE ME CREDIT. 
+GOOD LUCK AND KEEP UP THE FIGHT!
+
 
